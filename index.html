@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            function myFunction()
+            {
+                let un = document.getElementById("username").value;
+                let pw = document.getElementById("password").value;
+                if(un =="Yvette Memita" && pw == "YM@cme7"){
+                    window.location.href="welcomepage.html";
+                }
+                else{
+                    alert("Invalid Username/ password!!");
+                }
+            }
+
+            let x = 0;
+
+            function show() {
+                if (x==0) {
+                    document.getElementById("password").type="text";
+                    x++;
+                }else if(x >= 1){
+                    document.getElementById("password").type="password";
+                    x = 0;
+                }
+
+            }
+        </script>
+        <style>
+            body{
+                background-image: url(background.jpg);
+                background-size: 100%;
+            }
+            .div1{
+                max-width: 350px;
+                margin: auto;
+                margin: 10 0 0 450px;
+                overflow: hidden;
+                padding: 75px;
+                background-color: rgb( 73 , 70 , 70);
+                border-radius: 10px;
+            }
+            h2{
+                text-align: center;
+                padding: 10px;
+                color: gold;
+            }
+            label{
+                color: white;
+                padding-left: 10px;
+                display: block;
+            }
+            .inputText{
+                width: 350px;
+                height: 30px;
+                border: none;
+                border-radius: 2px;
+                padding-left: 8px;
+            }
+            #logButton{
+                text-align: center;
+                width: 60%;
+                height: 30px;
+                border: none;
+                border-radius: 10px;
+                color: black;
+                font-size: 16px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Login Form</h2>
+        <div class="div1">
+            <form name="myForm" method="post">
+                <label>Username</label>
+            <input type="text" class="inputText" placeholder="Enter Username" id="username">
+                <br><br>
+                <label>Password</label>
+                <input type="password" class="inputText" placeholder="Enter Password" id="password">
+                <br><br>
+                <input type="checkbox" onclick="show()">Show password
+                <br><br> 
+                <input type="button" id="logButton" value="login" onclick="myFunction()">
+                
+                <br><br>
+            </form>
+        </div>
+    </body>
+</html>
