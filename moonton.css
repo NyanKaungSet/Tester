@@ -52,7 +52,7 @@ input{
 
 .mlbb_Games{
     background-image: url(https://www.moonton.com/static/img/ML_BJ.0e933cc.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     margin-bottom: 30px;
@@ -78,7 +78,7 @@ input{
 }
 .mr_Games{
     background-image: url(https://www.moonton.com/static/img/MR_BJ.b2cc666.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     margin-bottom: 30px;
