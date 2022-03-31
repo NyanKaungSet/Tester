@@ -61,6 +61,7 @@ input{
 .mlbb_Games button{
     padding: 10px;
     border-radius: 30%;
+    background: whitesmoke;
 }
 .mla_Games{
     background-image: url(https://www.moonton.com/static/img/K_BJ.e380f3d.png);
@@ -73,6 +74,7 @@ input{
 .mla_Games button{
     padding: 10px;
     border-radius: 30%;
+    background: whitesmoke;
 }
 .mr_Games{
     background-image: url(https://www.moonton.com/static/img/MR_BJ.b2cc666.png);
@@ -85,6 +87,7 @@ input{
 .mr_Games button{
     padding: 10px;
     border-radius: 30%;
+    background: whitesmoke;
 }
 .about-item_Games{
     color: #fff;
@@ -141,6 +144,11 @@ input{
     background-color: #f4f6f7;
     margin-top: 100px;
     padding: 50px 30px 20px 30px;
+}
+@media screen and (max-width: 800px) {
+    .founderProfile_Com{
+        flex-direction: column;
+    }
 }
 .YuanJing , .XuZhenhua{
     display: flex;
