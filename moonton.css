@@ -62,11 +62,10 @@ input{
     padding: 10px;
     border-radius: 30%;
     background: darkred;
-    z-index: 3;
 }
 .mla_Games{
     background-image: url(https://www.moonton.com/static/img/K_BJ.e380f3d.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     margin-bottom: 30px;
@@ -76,11 +75,10 @@ input{
     padding: 10px;
     border-radius: 30%;
     background: darkred;
-    z-index: 3;
 }
 .mr_Games{
     background-image: url(https://www.moonton.com/static/img/MR_BJ.b2cc666.png);
-    background-size: 100%;
+    background-size: contain;
     background-repeat: no-repeat;
     color: #fff;
     margin-bottom: 30px;
@@ -90,7 +88,6 @@ input{
     padding: 10px;
     border-radius: 30%;
     background: darkred;
-    z-index: 3;
 }
 .about-item_Games{
     color: #fff;
