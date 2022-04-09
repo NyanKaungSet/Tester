@@ -22,6 +22,14 @@ label{
   background-color: white;
   box-shadow: 10px 10px 5px #aaaaaa;;
 }
+.label{
+  width: 100%;
+  padding: 10px;
+  color: azure;
+  margin: 0 auto;
+  overflow: scroll;
+  background-color: #333;
+}
 @media screen and (max-width:600px){
   .box01{
     width: 100%;

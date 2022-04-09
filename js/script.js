@@ -67,7 +67,9 @@ for (i in list) {
 	body.appendChild(box);
 	body.appendChild(br);
 }
-let n = JSON.stringify(list);
+
+
+/*let n = JSON.stringify(list);
 
 let txt = document.createElement('label');
 txt.style=`
@@ -78,4 +80,4 @@ padding:10px;
 margin:10px;
 `;
 txt.textContent=n;
-body.appendChild(txt);
+body.appendChild(txt);*/
