@@ -25,5 +25,6 @@ label{
 @media screen and (max-width:600px){
   .box01{
     width: 100%;
+    margin: auto;
   }
 }
