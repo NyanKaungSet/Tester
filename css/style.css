@@ -1,0 +1,27 @@
+body{
+  display:flex;
+  flex-direction:column;
+  background-color:#E9E9E9;
+  color:white;
+}
+h1{
+  font-family:sans-serif;
+  color:white;
+}
+label{
+  font-family:sans-serif;
+  color:black;
+}
+.box01{
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;;
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  transform: rotate(7deg);
+}
