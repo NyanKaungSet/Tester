@@ -121,10 +121,17 @@ To create a table, use 3 or more hyphen(-) to make a column header, and use pipe
         &lt;/td&gt;<br>
     &lt;/tr&gt;<br>
 
-*Output*
+***Output***
 | header 01 | header 02 |
 |-----------|-----------|
 | something | something |
+
+
+Cells' widths can be vary, as shown below. But the output will be the same.<br>
+`| header 01 | header 02 |`<br>
+`|---|----------------|`<br>
+`| lorem ipsum | something |`<br>
+
 *****
 
 # Others <a id="others"></a>
