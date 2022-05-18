@@ -104,7 +104,7 @@ To create a table, use 3 or more hyphen(-) to make a column header, and use pipe
 *Markdown* <br>
 `| header 1  | header 2  |`<br>
 `|-----------|-----------|`<br>
-|` something | something |`<br>
+`| something | something |`<br>
 
 
 *****
