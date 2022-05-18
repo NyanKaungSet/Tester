@@ -145,7 +145,7 @@ To add an image, add an exclamation mark (`!`), followed by alt text in brackets
 
 ***Output***<br>
 ![The San Juan Mountains](https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)
-<img src="https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1" title="The San Juan Mountain">
+
 *****
 
 # Code <a id="code"></a>
