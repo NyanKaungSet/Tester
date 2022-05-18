@@ -18,11 +18,11 @@
 |Markdown                 |html                            |
 |-------------------------|--------------------------------|
 | ```# Heading Level 1``` | ```<h1>Heading Level 1</h1>``` |
-| ```# Heading Level 2``` | ```<h2>Heading Level 2</h2>``` |
-| ```# Heading Level 3``` | ```<h3>Heading Level 3</h3>``` |
-| ```# Heading Level 4``` | ```<h4>Heading Level 4</h4>``` |
-| ```# Heading Level 5``` | ```<h5>Heading Level 5</h5>``` |
-| ```# Heading Level 6``` | ```<h6>Heading Level 6</h6>``` |
+| ```## Heading Level 2``` | ```<h2>Heading Level 2</h2>``` |
+| ```### Heading Level 3``` | ```<h3>Heading Level 3</h3>``` |
+| ```#### Heading Level 4``` | ```<h4>Heading Level 4</h4>``` |
+| ```##### Heading Level 5``` | ```<h5>Heading Level 5</h5>``` |
+| ```###### Heading Level 6``` | ```<h6>Heading Level 6</h6>``` |
 *****
 
 # Paragraphs <a id="paragraphs"></a>
@@ -39,12 +39,12 @@
 [Back to Top](#top)
 If you want to create a blockquote, add a '>' in front of the text
 *Markdown*
-```> This is a blockquote.```
+`> This is a blockquote.`
 
 *HTML*
-```<blockquote>
+`<blockquote>
        <p>This is a blockquote.</p>
-  </blockquote>```
+  </blockquote>`
   
 *Output*
   > This is a blockquote.
