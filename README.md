@@ -56,9 +56,16 @@ There are many ways to create line break. To mention a few,
 2. End a line with 2 or more spaces then tap 'return'.
 3. In some Markdown applications, you can use backslash `\` to create a new line. <br>
 
-***Markdown***
-This is the first line &lt;br&gt;.<br>
+***Markdown***<br>
+This is the first line.&lt;br&gt;<br>
 This is the second line.
+<br>
+
+***Output***
+This is the first line.<br>
+This is the second line.
+
+## Emphasis
 *****
 
 # Blockquotes <a id="Blockquotes"></a>
