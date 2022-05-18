@@ -14,7 +14,7 @@
 *****
 
 # Headings <a id="headings"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
 To make a heading, put # in front of the text. The number of number sign you use correspond to heading level. For example, if you put 3 number signs, the heading level is 3.
 |Markdown                      |HTML                            | Output                   |
 |------------------------------|--------------------------------|--------------------------|
@@ -54,7 +54,7 @@ Alternatively, on the line below the text add any number of == characters for he
 *****
 
 # Blockquotes <a id="Blockquotes"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
 If you want to create a blockquote, add a > in front of the text.
 
 ***Markdown***
@@ -89,8 +89,8 @@ If you want to create a blockquote, add a > in front of the text.
 *****
 
 # Horizontal Rules (hr)<a id="hr"></a>
-[Back to Top](#top)
-To create a horizontal rule use 3 or more asterisks (*) or dashes (-) or underscores (_).
+[Back to Top](#top)<br>
+To create a horizontal rule use 3 or more asterisks (*) or dashes (-) or underscores (_).<br>
 ***Markdown***<br>
 `***`<br>
 `---`<br>
@@ -102,6 +102,7 @@ To create a horizontal rule use 3 or more asterisks (*) or dashes (-) or undersc
 ***Output***
 ***
 
+<br><br>
 
 *****
 
@@ -111,7 +112,7 @@ To create a horizontal rule use 3 or more asterisks (*) or dashes (-) or undersc
 *****
 
 # Tables <a id="tables"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
 To create a table, use 3 or more hyphen(-) to make a column header, and use pipe(|) to separate each column.
 ***Markdown*** <br>
 `| header 01 | header 02 |`<br>
