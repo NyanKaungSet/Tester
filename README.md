@@ -13,7 +13,8 @@
 
 *****
 
-# Headings <a id="headings"></a> [Back to Top](#top)
+# Headings <a id="headings"></a>
+[Back to Top](#top)
 # Paragraphs <a id="paragraphs"></a> [Back to Top](#top)
 # Line Break, Emphasis, bold and italic <a id="LbEBI"></a> [Back to Top](#top)
 # Blockquotes <a id="Blockquotes"></a> [Back to Top](#top)
