@@ -102,9 +102,9 @@ If you want to create a blockquote, add a > in front of the text.
 [Back to Top](#top)
 To create a table, use 3 or more hyphen(-) to make a column header, and use pipe(|) to separate each column.
 *Markdown*
-`| header 1  | header 2  |
- |-----------|-----------|
- | something | something |`
+`| header 1  | header 2  |`<br>
+`|-----------|-----------|`<br>
+|` something | something |`<br>
 
 
 *****
