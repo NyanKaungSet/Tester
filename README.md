@@ -168,7 +168,8 @@ To create a horizontal rule use 3 or more asterisks (*) or dashes (-) or undersc
 *****
 
 # Links <a id="links"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
+To create a link, enclose the link text in brackets (e.g., `[Duck Duck Go]`) and then follow it immediately with the URL in parentheses (e.g., `(https://duckduckgo.com)`). You can optionally add a title after the URL in the parentheses.
 
 *****
 
