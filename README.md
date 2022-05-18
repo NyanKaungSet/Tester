@@ -129,6 +129,18 @@ If you want to create a blockquote, add a > in front of the text.
 [Back to Top](#top)<br>
 
 *****
+## Ordered List
+To create an ordered list, add line items with numbers followed by periods. The numbers don't have to be in numerical order, but the list should start with the number one.
+| Markdown                            | HTML | Output |
+|-------------------------------------|------|--------|
+| `1.` First item<br>`2.` Second item |
+
+*****
+
+## Unordered List
+
+
+*****
 
 # Images <a id="images"></a>
 [Back to Top](#top)<br>
