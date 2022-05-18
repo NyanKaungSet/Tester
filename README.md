@@ -57,20 +57,20 @@ Alternatively, on the line below the text add any number of == characters for he
 [Back to Top](#top)
 If you want to create a blockquote, add a > in front of the text.
 
-*Markdown*
+***Markdown***
 
 `> This is a blockquote.`
 
 <br>
 
-*HTML*
+***HTML***
 
 &lt;blockquote&gt;<br>
    &lt;p&gt;This is a blockquote.&lt;/p&gt;<br>
 &lt;/blockquote&gt;
 <br>
 
-*Output*
+***Output***
   > This is a blockquote.
 *****
 
@@ -101,12 +101,12 @@ If you want to create a blockquote, add a > in front of the text.
 # Tables <a id="tables"></a>
 [Back to Top](#top)
 To create a table, use 3 or more hyphen(-) to make a column header, and use pipe(|) to separate each column.
-*Markdown* <br>
+***Markdown*** <br>
 `| header 01 | header 02 |`<br>
 `|-----------|-----------|`<br>
 `| something | something |`<br>
 
-*HTML* <br>
+***HTML*** <br>
 &lt;table&gt;<br>
     &lt;tr&gt;<br>
         &lt;th&gt;header 01
