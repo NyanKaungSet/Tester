@@ -132,6 +132,18 @@ If you want to create a blockquote, add a > in front of the text.
 
 # Images <a id="images"></a>
 [Back to Top](#top)<br>
+To add an image, add an exclamation mark (`!`), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.
+<br>
+***Syntax***<br>
+'![alt text](image.jpg)'
+<br>
+
+***Markdown***<br>
+`![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")`
+<br>
+
+***Output***<br>
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 *****
 
 # Code <a id="code"></a>
