@@ -23,6 +23,12 @@
 | # Heading Level 4 | <h4>Heading Level 4</h4> |
 | # Heading Level 5 | <h5>Heading Level 5</h5> |
 | # Heading Level 6 | <h6>Heading Level 6</h6> |
+
+<table>
+  <tr>
+    <th>Markdown</th>
+    <th>In html</th>
+  </tr>
   
 *****
 
