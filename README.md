@@ -126,17 +126,27 @@ If you want to create a blockquote, add a > in front of the text.
 *****
 
 # Lists <a id="lists"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
 
 *****
 
 # Images <a id="images"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
 *****
 
 # Code <a id="code"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
+To denote a word or phrase as code, enclose it in backticks `( ` )`. Not quotation marks `( ' )` or `( " )`.
+| Markdown                                | HTML                                             | Output                              |
+|-----------------------------------------|--------------------------------------------------|-------------------------------------|
+| ``At the command prompt, type `nano`.`` | `At the command prompt, type <code>nano</code>.` | At the command prompt, type `nano`. |
+<br>
 
+## Escaping Backticks
+If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double backticks (``).
+| Markdown                              | HTML                                  | Output                                |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+| ``Use `code` in your Markdown file.`` | ``Use `code` in your Markdown file.`` | ``Use `code` in your Markdown file.`` |
 *****
 
 # Horizontal Rules (hr)<a id="hr"></a>
