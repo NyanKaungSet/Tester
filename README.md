@@ -42,7 +42,7 @@ If you want to create a blockquote, add a > in front of the text.
 *Markdown*<br>`> This is a blockquote.`
 
 *HTML*
-`<blockquote>`<br>
+&lt;blockquote&gt;
    `<p>This is a blockquote.</p>`<br>
 `</blockquote>`
 
