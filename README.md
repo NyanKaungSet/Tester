@@ -67,7 +67,7 @@ This is the second line.
 <br>
 
 ## Bold
-To bold a text use 2 asterisks `(*)` or underscore `(_)` before and after the text.
+To bold a text use 2 asterisks `(*)` or underscore `(_)` before and after the text.<br>
 ***Markdown***<br>
 `**Bold text**`<br>
 `__Bold text__`<br>
@@ -79,7 +79,7 @@ __Bold text__<br>
 <br>
 
 ## Italic
-To italicize a text use one asterisk `(*)` or underscore `(_)` before and after the text.
+To italicize a text use one asterisk `(*)` or underscore `(_)` before and after the text.<br>
 ***Markdown***<br>
 `*Bold text*`<br>
 `_Bold text_`<br>
