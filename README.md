@@ -46,13 +46,15 @@ If you want to create a blockquote, add a > in front of the text.
 *HTML*
 
 ```html
+{
 <pre>
     <code>
        <blockquote>
            <p>This is a blockquote.</p>
-        </blockquote>```
+        </blockquote>
     </code>
 </pre>
+}```
 
 *Output*
   > This is a blockquote.
