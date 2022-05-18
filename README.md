@@ -13,8 +13,7 @@
 
 *****
 
-# Headings <a id="headings"></a>
-[Back to Top](#top)
+# Headings <a id="headings"></a> <a href="#top">Back to Top</a>
 
 *****
 
