@@ -37,7 +37,7 @@
 
 # Blockquotes <a id="Blockquotes"></a>
 [Back to Top](#top)
-If you want to create a blockquote, add a '>' in front of the text
+If you want to create a blockquote, add a > in front of the text
 *Markdown*
 `> This is a blockquote.`
 
