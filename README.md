@@ -88,8 +88,20 @@ If you want to create a blockquote, add a > in front of the text.
 
 *****
 
-# Horizontal Rules <a id="hr"></a>
+# Horizontal Rules (hr)<a id="hr"></a>
 [Back to Top](#top)
+To create a horizontal rule use 3 or more asterisks (*) or dashes (-) or underscores (_).
+***Markdown***<br>
+`***`<br>
+`---`<br>
+`___`<br>
+
+***HTML***<br>
+`<hr>`<br>
+
+***Output***
+***
+
 
 *****
 
