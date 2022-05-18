@@ -61,11 +61,23 @@ This is the first line.&lt;br&gt;<br>
 This is the second line.
 <br>
 
-***Output***
+***Output***<br>
 This is the first line.<br>
 This is the second line.
+## Bold
+
+## Italic
 
 ## Emphasis
+To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+| Markdown                                  | HTML                                                          | Output                                  |
+|-------------------------------------------|---------------------------------------------------------------|-----------------------------------------|
+| `This text is ***really important***.`    | `This text is <em><strong>really important.</strong></em>`    | This text is ***really important***.    |
+| `This text is ___really important___.`    | `This text is <em><strong>really important.</strong></em>`    | This text is ___really important___.    |
+| `This text is __*really important*__.`    | `This text is <em><strong>really important.</strong></em>`    | This text is __*really important*__.    |
+| `This text is **_really important_**.`    | `This text is <em><strong>really important.</strong></em>`    | This text is **_really important_**.    |
+| `This is really***very***important text.` | `This text is really<em><strong>very</strong><em> important.` | This is really***very***important text. |
+Note: The order of the `em` and `strong` tags might be reversed depending on the Markdown processor you're using. Markdown applications don't agree on how to handle underscores in the middle of a word. For compatibility, use asterisks to bold and italicize the middle of a word for emphasis.
 *****
 
 # Blockquotes <a id="Blockquotes"></a>
