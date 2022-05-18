@@ -135,15 +135,15 @@ If you want to create a blockquote, add a > in front of the text.
 To add an image, add an exclamation mark (`!`), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.
 <br>
 ***Syntax***<br>
-'![alt text](image.jpg)'
+`![alt text](image.jpg)`
 <br>
 
 ***Markdown***<br>
-`![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")`
+`![The San Juan Mountains are beautiful!](https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)`
 <br>
 
 ***Output***<br>
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)
 *****
 
 # Code <a id="code"></a>
