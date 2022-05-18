@@ -1,7 +1,7 @@
 # Table of Contents <a id="top"></a>
 1. [Headings](#headings)
 2. [Paragraphs](#paragraphs)
-3. [Line Break, Emphasis, bold and italic](#LbEBI)
+3. [Line Break, bold, italic and Emphasis](#LbEBI)
 4. [Blockquotes](#blockquotes)
 5. [Lists](#lists)
 6. [Images](#images)
@@ -48,7 +48,7 @@ Alternatively, on the line below the text add any number of == characters for he
 To create paragraphs, use a blank line to separate one or more lines of text. You should not indent paragraphs with spaces or tabs.
 *****
 
-# Line Break, Emphasis, bold and italic <a id="LbEBI"></a>
+# Line Break, bold, italic and Emphasis <a id="LbEBI"></a>
 [Back to Top](#top)
 ## Line Break
 There are many ways to create line break. To mention a few, 
