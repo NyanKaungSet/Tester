@@ -15,6 +15,7 @@
 
 # Headings <a id="headings"></a>
 [Back to Top](#top)
+To make a heading, put # in front of the text. The number of number sign you use correspond to heading level. For example, if you put 3 number signs, the heading level is 3.
 |Markdown                      |HTML                            | Output                   |
 |------------------------------|--------------------------------|--------------------------|
 | ```# Heading Level 1```      | ```<h1>Heading Level 1</h1>``` | <h1>Heading Level 1</h1> |
@@ -23,8 +24,10 @@
 | ```#### Heading Level 4```   | ```<h4>Heading Level 4</h4>``` | <h4>Heading Level 4</h4> |
 | ```##### Heading Level 5```  | ```<h5>Heading Level 5</h5>``` | <h5>Heading Level 5</h5> | 
 | ```###### Heading Level 6``` | ```<h6>Heading Level 6</h6>``` | <h6>Heading Level 6</h6> |
+<br><br>
 
-###Alternate Syntax
+### Alternate Syntax
+Alternatively,on the line below the text add any number of == characters for heading level 1 or -- character for heading level 2.
 |Markdown                      |HTML                            | Output                   |
 |------------------------------|--------------------------------|--------------------------|
 | ```# Heading Level 1------```| ```<h1>Heading Level 1</h1>``` | <h1>Heading Level 1</h1> |
