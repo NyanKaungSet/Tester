@@ -106,6 +106,20 @@ To create a table, use 3 or more hyphen(-) to make a column header, and use pipe
 `|-----------|-----------|`<br>
 `| something | something |`<br>
 
+*HTML*
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;header 01
+        &lt;/th&gt;
+        &lt;th&gt;header 02
+        &lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;something
+        &lt;/td&gt;
+        &lt;td&gt;something
+        &lt;/td&gt;
+    &lt;/tr&gt;
 
 *****
 
