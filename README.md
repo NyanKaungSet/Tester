@@ -44,7 +44,7 @@ Alternatively, on the line below the text add any number of == characters for he
 *****
 
 # Paragraphs <a id="paragraphs"></a>
-[Back to Top](#top)
+[Back to Top](#top)<br>
 To create paragraphs, use a blank line to separate one or more lines of text. You should not indent paragraphs with spaces or tabs.
 *****
 
