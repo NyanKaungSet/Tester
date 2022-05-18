@@ -13,7 +13,7 @@
 
 *****
 
-# Headings <a id="headings"></a>
+# Headings <a id="headings"></a> &#124
 [Back to Top](#top)
 |Markdown           |html                      |
 |-------------------|--------------------------|
