@@ -31,8 +31,8 @@ To make a heading, put # in front of the text. The number of number sign you use
 Alternatively, on the line below the text add any number of == characters for heading level 1 or -- character for heading level 2.
 |Markdown                      |HTML                            | Output                   |
 |------------------------------|--------------------------------|--------------------------|
-| ```# Heading Level 1------```| ```<h1>Heading Level 1</h1>``` | <h1>Heading Level 1</h1> |
-| ```## Heading Level 2=====```| ```<h2>Heading Level 2</h2>``` | <h2>Heading Level 2</h2> |
+| ```# Heading Level 1<br>------```| ```<h1>Heading Level 1</h1>``` | <h1>Heading Level 1</h1> |
+| ```## Heading Level 2<br>=====```| ```<h2>Heading Level 2</h2>``` | <h2>Heading Level 2</h2> |
 
 
 | :x: Don't do this        | :heavy_check_mark: Do this|
