@@ -39,12 +39,15 @@
 [Back to Top](#top)
 If you want to create a blockquote, add a > in front of the text.
 
-*Markdown*<br>`> This is a blockquote.`
+*Markdown*
+
+`> This is a blockquote.`
 
 *HTML*
+
 &lt;blockquote&gt;
-   `<p>This is a blockquote.</p>`<br>
-`</blockquote>`
+   &lt;p&gt;This is a blockquote.&lt;/p&gt;
+<&lt;/blockquote&gt;
 
 *Output*
   > This is a blockquote.
