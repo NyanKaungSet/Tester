@@ -43,11 +43,14 @@ If you want to create a blockquote, add a > in front of the text.
 
 `> This is a blockquote.`
 
+
 *HTML*
 
 &lt;blockquote&gt;
+
    &lt;p&gt;This is a blockquote.&lt;/p&gt;
-<&lt;/blockquote&gt;
+
+&lt;/blockquote&gt;
 
 *Output*
   > This is a blockquote.
