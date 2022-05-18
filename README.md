@@ -113,14 +113,18 @@ To create a table, use 3 or more hyphen(-) to make a column header, and use pipe
         &lt;/th&gt;<br>
         &lt;th&gt;header 02
         &lt;/th&gt;<br>
-    &lt;/tr&gt;
+    &lt;/tr&gt;<br>
     &lt;tr&gt;<br>
         &lt;td&gt;something
         &lt;/td&gt;<br>
         &lt;td&gt;something
         &lt;/td&gt;<br>
-    &lt;/tr&gt;
+    &lt;/tr&gt;<br>
 
+*Output*
+| header 01 | header 02 |
+|-----------|-----------|
+| something | something |
 *****
 
 # Others <a id="others"></a>
