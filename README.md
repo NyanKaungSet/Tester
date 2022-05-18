@@ -15,13 +15,54 @@
 
 # Headings <a id="headings"></a>
 [Back to Top](#top)
-# Paragraphs <a id="paragraphs"></a> [Back to Top](#top)
-# Line Break, Emphasis, bold and italic <a id="LbEBI"></a> [Back to Top](#top)
-# Blockquotes <a id="Blockquotes"></a> [Back to Top](#top)
-# Lists <a id="lists"></a> [Back to Top](#top)
-# Images <a id="images"></a> [Back to Top](#top)
-# Code <a id="code"></a> [Back to Top](#top)
-# Horizontal Rules <a id="hr"></a> [Back to Top](#top)
-# Links <a id="links"></a> [Back to Top](#top)
-# Tables <a id="tables"></a> [Back to Top](#top)
-# Others <a id="others"></a> [Back to Top](#top)
+
+*****
+
+# Paragraphs <a id="paragraphs"></a>
+[Back to Top](#top)
+
+*****
+
+# Line Break, Emphasis, bold and italic <a id="LbEBI"></a>
+[Back to Top](#top)
+
+*****
+
+# Blockquotes <a id="Blockquotes"></a>
+[Back to Top](#top)
+
+*****
+
+# Lists <a id="lists"></a>
+[Back to Top](#top)
+
+*****
+
+# Images <a id="images"></a>
+[Back to Top](#top)
+*****
+
+# Code <a id="code"></a>
+[Back to Top](#top)
+
+*****
+
+# Horizontal Rules <a id="hr"></a>
+[Back to Top](#top)
+
+*****
+
+# Links <a id="links"></a>
+[Back to Top](#top)
+
+*****
+
+# Tables <a id="tables"></a>
+[Back to Top](#top)
+
+*****
+
+# Others <a id="others"></a>
+[Back to Top](#top)
+
+*****
