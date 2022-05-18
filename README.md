@@ -64,9 +64,31 @@ This is the second line.
 ***Output***<br>
 This is the first line.<br>
 This is the second line.
+<br>
+
 ## Bold
+To bold a text use 2 asterisks `(*)` or underscore `(_)` before and after the text.
+***Markdown***<br>
+`**Bold text**`<br>
+`__Bold text__`<br>
+<br>
+
+***Output***<br>
+**Bold text**<br>
+__Bold text__<br>
+<br>
 
 ## Italic
+To italicize a text use one asterisk `(*)` or underscore `(_)` before and after the text.
+***Markdown***<br>
+`*Bold text*`<br>
+`_Bold text_`<br>
+<br>
+
+***Output***<br>
+*Bold text*<br>
+_Bold text_<br>
+<br>
 
 ## Emphasis
 To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
