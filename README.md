@@ -50,7 +50,15 @@ Alternatively, on the line below the text add any number of == characters for he
 
 # Line Break, Emphasis, bold and italic <a id="LbEBI"></a>
 [Back to Top](#top)
+## Line Break
+There are many ways to create line break. To mention a few, 
+1. If your Markdown application suppports HTML, you can use `<br>`.
+2. End a line with 2 or more spaces then tap 'return'.
+3. In some Markdown applications, you can use backslash `\` to create a new line. <br>
 
+***Markdown***
+This is the first line &lt;br&gt;.<br>
+This is the second line.
 *****
 
 # Blockquotes <a id="Blockquotes"></a>
