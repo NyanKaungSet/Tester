@@ -139,11 +139,13 @@ To add an image, add an exclamation mark (`!`), followed by alt text in brackets
 <br>
 
 ***Markdown***<br>
-`![The San Juan Mountains are beautiful](https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)`
+`![The San Juan Mountains are beautiful](https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)` Or
+`<img src="https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1">`
 <br>
 
 ***Output***<br>
-![The San Juan Mountains] (https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)
+![The San Juan Mountains](https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1)
+<img src="https://i0.wp.com/sjma.org/wp-content/uploads/2018/04/Ice-Lakes-BG.jpg?fit=1920%2C1080&ssl=1" alt="The San Juan Mountain>
 *****
 
 # Code <a id="code"></a>
