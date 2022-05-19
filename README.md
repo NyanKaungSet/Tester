@@ -141,7 +141,9 @@ To create an ordered list, add line items with numbers followed by periods. The 
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. To nest line items in an ordered list, indent the items four spaces or one tab.
 | Markdown | HTML | Output |
 |---------------------|--------------------|----------------|
-| `- First item`<br> `- Second item`<br> `- Third item`<br> |`<ul>`<br> `<li>First item</li>`<br> `<li>Second item</li>`<br> `<li>Third item</li>`<br> `</ul>` |* First item<br>  * Second item<br>  * Third item |
+| `- First item`<br> `- Second item`<br> `- Third item`<br> |`<ul>`<br> `<li>First item</li>`<br> `<li>Second item</li>`<br> `<li>Third item</li>`<br> `</ul>` |* First item<br>
+* Second item<br>
+* Third item |
 | `* First item`<br> `* Second item`<br> `* Third item`<br> |<ul><br> <li>First item</li><br> <li>Second item</li><br> <li>Third item</li> </ul> |* First item<br>  * Second item<br>  * Third item |
 | `* First item`<br> `+ Second item`<br> `- Third item`<br> |<ul><br> <li>First item</li><br> <li>Second item</li><br> <li>Third item</li> </ul> |* First item<br>  * Second item<br>  * Third item |
 
