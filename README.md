@@ -102,6 +102,7 @@ To emphasize text with bold and italics at the same time, add three asterisks or
 
 <br>
 Note: The order of the `em` and `strong` tags might be reversed depending on the Markdown processor you're using. Markdown applications don't agree on how to handle underscores in the middle of a word. For compatibility, use asterisks to bold and italicize the middle of a word for emphasis.
+
 *****
 
 # Blockquotes <a id="Blockquotes"></a>
@@ -133,7 +134,7 @@ If you want to create a blockquote, add a > in front of the text.
 To create an ordered list, add line items with numbers followed by periods. The numbers don't have to be in numerical order, but the list should start with the number one.
 | Markdown                            | HTML | Output |
 |-------------------------------------|------|--------|
-| `1.` First item<br>`2.` Second item |
+| `1.` First item<br>`2.` Second item |<ol><br> <li>First item</li><br> <li>Second item</li><br> </ol> | 1. First item 2. Second item |
 
 *****
 
