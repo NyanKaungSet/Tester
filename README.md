@@ -82,7 +82,7 @@ __Bold text__<br>
 To italicize a text use one asterisk `(*)` or underscore `(_)` before and after the text.<br>
 ***Markdown***<br>
 `*Italicized text*`<br>
-`Italicized text_`<br>
+`_Italicized text_`<br>
 <br>
 
 ***Output***<br>
