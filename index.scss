@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ---- POPUP BOX DESIGN ---- */
+.popup{
+    display: none;
+    max-width:500px;
+    margin:0 auto;
+    background-color: #333;
+    color: #fff;
+    z-index: 3;
+}
+.popup-header{
+    position: relative;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.popup-header span{
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    font-size: 26px;
+    padding: 10px;
+    cursor: pointer;
+}
+.popup-header span:hover{background-color: red;}
+.popup-header span:active{
+    background-color: darkred;
+}
+.popup-content{
+    height: 100px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #3f3f3f;
+}
+.popup-footer{
+    padding: 10px;
+    font-size: 20px;
+}
